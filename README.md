@@ -1,5 +1,8 @@
 # esp8266_mqtt_rgb
 MQTT RGB LED arduino code
+## Library
+
+Use MQTT PubSub 1.99
 
 ## License
 
