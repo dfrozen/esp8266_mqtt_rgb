@@ -1,7 +1,8 @@
 # esp8266_mqtt_rgb
 MQTT RGB LED arduino code
 
-#LICENSE
+# License
+
 MIT License
 
 Copyright (c) 2017 Andrey Kuznetsoff
