@@ -146,7 +146,7 @@ void loop(void) {
     Serial.println("Press key");
     analogWrite(RED, 100);
     analogWrite(GREEN, 100);
-    analogWrite(RED, 100);
+    analogWrite(BLUE, 100);
     client.publish("home/light/rgb1/status/","lightOn");
     client.publish("/home/light/rgb1/rgb","(100,100,100)");
       ms_button    = ms;
@@ -157,7 +157,7 @@ void loop(void) {
       Serial.println("Press key");  
     analogWrite(RED, LOW);
     analogWrite(GREEN, LOW);
-    analogWrite(RED, LOW);  
+    analogWrite(BLUE, LOW);  
     client.publish("home/light/rgb1/status/","lightOff");
     client.publish("/home/light/rgb1/rgb","(0,0,0)");
       ms_button    = ms;
