@@ -8,7 +8,7 @@ Use MQTT PubSub 1.99
 
 MIT License
 
-Copyright (c) 2017 Andrey Kuznetsoff
+Copyright (c) 2017-2018 Andrey Kuznetsoff
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
